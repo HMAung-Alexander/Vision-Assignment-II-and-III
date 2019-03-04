@@ -1,0 +1,2 @@
+# Vision-Assignment-II-and-III
+In Vision Assignment II , we will mainly discuss about how Image enhancement methods work in Matlab , especially Negative, Logarithmic and Power-Law Transformation, as well as Fourier Transform too. In Assignment III, We will focus on difference between histogram equalization and contrast stretching , how to remove salt and pepper noise using Median Filter and Image sharpening method by using Laplacian Method.
